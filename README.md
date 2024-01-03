@@ -13,4 +13,6 @@ https://hachiojipm.connpass.com/event/304403/
 
 https://github.com/hachiojipm/ya8-2024/discussions
 
-トーク応募などはまだ開始していません。
+### トーク応募開始しました 2024-01-03
+
+https://github.com/hachiojipm/ya8-2024-cfp/blob/main/README.md
